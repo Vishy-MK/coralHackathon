@@ -11,7 +11,7 @@ It includes visual productivity charts like Focus Debt, Unfinished Loops, and a 
 - **Unfinished Loops**: Identifies attention sinkholes—open issues with heavy comment activity or Notion cards stuck "In Progress" for days.
 - **Unified Timeline**: Streams chronological activity across all registered source platforms into one filtered feed.
 - **Coral SQL Console**: Directly query your connected SaaS platforms using standard SQL grammar through the integrated Coral engine.
-
+rygviyadvgvuyqgvaduyvfagautfgfty
 ## 🛠 Tech Stack
 
 - **Frontend**: React + Vite, Tailwind CSS, Lucide Icons, Recharts
